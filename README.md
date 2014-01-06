@@ -1,3 +1,8 @@
+## Frima Studio modifications ##
+We are using a forked version of the library simply to expose some variables in the ObjectId class for serialization purposes.
+
+**EVERY MODIFICATION SHOULD BE DONE IN THE 2.11.3-frima BRANCH!!!**
+
 ## MongoDB Java Driver ##
  * release notes: http://github.com/mongodb/mongo-java-driver/wiki/Release-Notes
  * driver home: http://github.com/mongodb/mongo-java-driver
