@@ -328,9 +328,9 @@ public class ObjectId implements Comparable<ObjectId> , java.io.Serializable {
         return _nextInc.get();
     }
 
-    final int _time;
-    final int _machine;
-    final int _inc;
+    public int _time;
+    public int _machine;
+    public int _inc;
 
     boolean _new;
 
